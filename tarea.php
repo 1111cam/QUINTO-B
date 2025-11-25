@@ -1,19 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2>sintaxis de java</h2>;
-<p>La sintaxis de Java es el conjunto de reglas que determinan cómo se deben escribir los programas en este lenguaje.</p>
-    <h2>estructuras repetitivas</h2> 
+<?php
+echo "<h1>Lenguaje de Programación Java</h1>";
+echo "<h2>sintaxis de java</h2>";
+<p>La sintaxis de Java es similar a la de otros lenguajes de programación como C y C++. Utiliza llaves {} para definir bloques de código y punto y coma ; para finalizar las instrucciones.</p>;
+echo "<h2>estructuras repetitivas</h2>"; 
 <p>En Java, las estructuras repetitivas (o bucles) permiten ejecutar un bloque de código varias veces.</p> 
-    <h2>estructuras repertitivas</h2>
+echo "<h2>estructuras repertitivas</h2>";
 <p>Las estructuras repetitivas (o bucles) son instrucciones que permiten repetir un bloque de código varias veces hasta que se cumpla una condición.</p>
-    <h2>herencia</h2>
+echo "<h2>herencia</h2>";
 <p>La herencia en Java es un mecanismo que permite que una clase (hija o subclase) adquiera los atributos y métodos de otra clase (padre o superclase).
 Es uno de los pilares de la programación orientada a objetos (POO).</p>
-</body>
-</html>
+?>
+ç
