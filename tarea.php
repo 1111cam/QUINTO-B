@@ -10,4 +10,3 @@ echo "<h2>herencia</h2>";
 <p>La herencia en Java es un mecanismo que permite que una clase (hija o subclase) adquiera los atributos y métodos de otra clase (padre o superclase).
 Es uno de los pilares de la programación orientada a objetos (POO).</p>
 ?>
-ç
